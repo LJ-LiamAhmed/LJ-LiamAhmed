@@ -1,5 +1,5 @@
 <!--Banner-->
-![LJ Banner](./github_header_banner.png)
+<img src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/github-header-image.png" alt="LJ Banner">
 
 <!--Night Owl Image-->
 <div>
@@ -33,9 +33,9 @@
 <!--Skills GIF-->
 <h2 align="center">Tech Stack</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif">
+  <img align="right" alt="Skills Animation" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
 </picture>
 <br/>
 
