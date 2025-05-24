@@ -14,6 +14,7 @@
   I'm mainly a SA-MP developer with strong experience in Pawn scripting. I enjoy programming and exploring the virtual world. I'm also learning other languages like Python, HTML, PHP, and JavaScript. While I'm still a beginner in those, I'm excited to grow and build more.
 
 ### 🚀 Professional Experience & Skills
+#### <img align="left" width = "4%" src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/scripting.gif"/>
 ##### 🎮 SA-MP Game Development
 - **Pawn Scripting Expert** – Advanced knowledge in SA-MP game mode development.
 - **Server Development** – Developer of **Apex Roleplay** and other multiplayer servers.
@@ -76,6 +77,6 @@ Connect
 </p>
 
 <!--Footer-->
-<p align="center">
-  <img  src="https://armory.visualsoldiers.com/wp-content/uploads/2020/01/goey-footer.gif"/>
+<p >
+  <img  width="100%" height="60" src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/scripting.gif" />
 </p>
