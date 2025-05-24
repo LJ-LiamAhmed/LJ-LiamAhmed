@@ -2,9 +2,8 @@
 <img src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/github-header-image%20(1).png" alt="LJ Banner">
 
 <!--Night Owl Image-->
-<div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm LJ (Liam / Ahmed)
@@ -13,31 +12,37 @@
 <!--Intro-->
 <p align="left">
   I'm mainly a SA-MP developer with strong experience in Pawn scripting. I enjoy programming and exploring the virtual world. I'm also learning other languages like Python, HTML, PHP, and JavaScript. While I'm still a beginner in those, I'm excited to grow and build more.
-</p>
 
-- 🎮 Experienced in SA-MP game mode scripting and server development.
-- 👨‍💼 Managing Director and Lead Tutor at **Pheonix Academy**.
-- 🧠 Founder and Developer of **Apex Roleplay** and other multiplayer servers.
-- 📝 I’ve created classes and documentation to help others learn SA-MP scripting.
-- 🌱 Currently learning Python, HTML, MySQL, PHP, and JavaScript.
-- 💼 I'm open to project work and collaborations — feel free to reach out!
-- 📂 Planning to release open-source SA-MP tools, systems, and documentation soon on GitHub.
+### 🚀 Professional Experience & Skills
+##### 🎮 SA-MP Game Development
+- **Pawn Scripting Expert** – Advanced knowledge in SA-MP game mode development.
+- **Server Development** – Founder & developer of **Apex Roleplay** and other multiplayer servers.
+- **Educator & Mentor** – Created documentation and classes for SA-MP learning.
+- **Community Builder** – Active in growing and supporting multiplayer gaming communities.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif">
+    <img alt="Skills Animation" align = "right" width = "20%" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
+  </picture>
+##### 🌐 Software Development & Programming
+- **Expanding into** – Python, HTML, MySQL, PHP, and JavaScript.
+- **Web Development** – Learning full-stack principles for scalable applications.
+- **Database Management** – Working on relational & non-relational database solutions.
+- **Automation & Tools** – Developing open-source SA-MP systems and improvements.
 
-<!--Contact-->
-**📧 Email:** lj4hmed@gmail.com  
-**💬 Discord:** lj4hmed  
-**💻 GitHub:** [LJ-LiamAhmed](https://github.com/LJ-LiamAhmed)
+##### 🏫 Leadership & Education
+- **Managing Director & Lead Tutor** at **Pheonix Academy**.
+- **Training & Technical Guidance** – Supporting learners in game development & coding.
+- **Knowledge Sharing** – Helping aspiring developers grow through education.
+
+### 💼 Collaboration & Contact
+I’m open to new projects and collaborations! Feel free to **reach out** anytime.
+
+📧 **Email:** lj4hmed@gmail.com  
+💬 **Discord:** lj4hmed  
+💻 **GitHub:** [LJ-LiamAhmed](https://github.com/LJ-LiamAhmed)
 
 ---
-
-<!--Skills GIF-->
-<h2 align="center">Tech Stack</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif">
-  <img align="right" alt="Skills Animation" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
-</picture>
-<br/>
 
 <!--GitHub Stats-->
 <h2 align="center">📊 GitHub Stats</h2>
