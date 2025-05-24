@@ -26,7 +26,7 @@
     <img alt="Skills Animation" align = "right" width = "20%" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
   </picture>
 
-#### <img align="left" width = "4%" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/development-274-913823.png?f=webp&w=256"/>
+#### <img align="left" width = "4%" src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/programmer.gif"/>
 ## Software Development & Programming
 - **Expanding into** – Python, HTML, MySQL, PHP, and JavaScript.
 - **Web Development** – Learning full-stack principles for scalable applications.
