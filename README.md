@@ -16,7 +16,7 @@
 ### 🚀 Professional Experience & Skills
 ##### 🎮 SA-MP Game Development
 - **Pawn Scripting Expert** – Advanced knowledge in SA-MP game mode development.
-- **Server Development** – Founder & developer of **Apex Roleplay** and other multiplayer servers.
+- **Server Development** – Developer of **Apex Roleplay** and other multiplayer servers.
 - **Educator & Mentor** – Created documentation and classes for SA-MP learning.
 - **Community Builder** – Active in growing and supporting multiplayer gaming communities.
   <picture>
@@ -45,34 +45,34 @@ I’m open to new projects and collaborations! Feel free to **reach out** anytim
 ---
 
 <!--GitHub Stats-->
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LJ-LiamAhmed&count_private=true&show_icons=true&theme=radical" alt="LJ's GitHub Stats"/>
+<h2 align="right">📊 GitHub Stats</h2>
+<div align="right">
+  <img  width = "30%" src="https://github-readme-stats.vercel.app/api?username=LJ-LiamAhmed&count_private=true&show_icons=true&theme=radical" alt="LJ's GitHub Stats"/>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=LJ-LiamAhmed&theme=radical" alt="LJ's GitHub Streak"/>
+  <img  width = "30%" src="https://streak-stats.demolab.com?user=LJ-LiamAhmed&theme=radical" alt="LJ's GitHub Streak"/>
 </div>
 
 <!--Projects Section-->
-<h2 align="center">🧪 Projects & Contributions</h2>
-<p align="center">Stay tuned — I’ll be uploading SA-MP systems, tools, and tutorials regularly.</p>
+<h4 align="left">🧪 Projects & Contributions</h2>
+<p align="left">Stay tuned — I’ll be uploading SA-MP systems, tools, and tutorials regularly.</p>
 
 <!--Quote of the Day-->
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
-<p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Life%20is%20about%20not%20knowing%20and%20then%20doing%20something%20anyway.&theme=dark"/>
+<h2 align="right">🌟 Thought of the Day 🌟</h2>
+<p align="right">
+  <img width = "40%" src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Life%20is%20about%20not%20knowing%20and%20then%20doing%20something%20anyway.&theme=dark"/>
 </p>
 
 ---
 
 <!--Connect With Me-->
-<h2 align="center">🤝 Connect With Me</h2>
-<p align="center">
-  <a href="mailto:lj4hmed@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40" alt="Gmail"/></a>
-  <a href="https://github.com/LJ-LiamAhmed"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="40" height="40" alt="GitHub"/></a>
-  <a href="https://discord.com/users/lj4hmed"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40" alt="Discord"/></a>
+Connect
+<p align="left">
+  <a href="mailto:lj4hmed@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="20" height="20" alt="Gmail"/></a>
+  <a href="https://github.com/LJ-LiamAhmed"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="20" height="20" alt="GitHub"/></a>
+  <a href="https://discord.com/users/lj4hmed"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="20" height="20" alt="Discord"/></a>
 </p>
 
 <!--Footer-->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img  src="https://armory.visualsoldiers.com/wp-content/uploads/2020/01/goey-footer.gif"/>
 </p>
