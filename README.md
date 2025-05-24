@@ -68,15 +68,17 @@
 
 ---
 
-<!--Connect With Me-->
-Connect
-<p align="left">
+---
+
+<p align="center">
   <a href="mailto:lj4hmed@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="20" height="20" alt="Gmail"/></a>
   <a href="https://github.com/LJ-LiamAhmed"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="20" height="20" alt="GitHub"/></a>
   <a href="https://discord.com/users/lj4hmed"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="20" height="20" alt="Discord"/></a>
 </p>
 
+---
+
 <!--Footer-->
-<p >
-  <img  width="100%" height="60" src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/scripting.gif" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=Thanks%20For%20Visiting%20My%20Profile%20-%20LJ&section=footer&textBg=false&fontSize=20&fontColor=black&fontAlign=52&fontAlignY=48&animation=twinkling&desc=If%20You%20Need%20Any%20Kind%20Of%20Help%20Please%20Contact%20Me%20Via%20Discord%20Or%20Mail%20Me%20&descAlign=52&descSize=10&descAlignY=67"/>
 </p>
