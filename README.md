@@ -1,5 +1,5 @@
 <!--Banner-->
-<img src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/github-header-image.png" alt="LJ Banner">
+<img src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/github-header-image%20(1).png" alt="LJ Banner">
 
 <!--Night Owl Image-->
 <div>
