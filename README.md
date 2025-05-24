@@ -57,13 +57,13 @@
 </div>
 
 <!--Projects Section-->
-<h4 align="left">🧪 Projects & Contributions</h2>
+<h2 align="left">🧪 Projects & Contributions</h2>
 <p align="left">Stay tuned — I’ll be uploading SA-MP systems, tools, and tutorials regularly.</p>
 
 <!--Quote of the Day-->
-<h2 align="right">🌟 Thought of the Day 🌟</h2>
+<h1 align="right">🌟 Thought of the Day 🌟</h1>
 <p align="right">
-  <img width = "40%" src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Life%20is%20about%20not%20knowing%20and%20then%20doing%20something%20anyway.&theme=dark"/>
+  <img width = "30%" src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Life%20is%20about%20not%20knowing%20and%20then%20doing%20something%20anyway.&theme=dark"/>
 </p>
 
 ---
