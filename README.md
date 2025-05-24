@@ -14,8 +14,8 @@
   I'm mainly a SA-MP developer with strong experience in Pawn scripting. I enjoy programming and exploring the virtual world. I'm also learning other languages like Python, HTML, PHP, and JavaScript. While I'm still a beginner in those, I'm excited to grow and build more.
 
 ### 🚀 Professional Experience & Skills
-#### <img align="left" width = "4%" src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/scripting.gif"/>
-##### 🎮 SA-MP Game Development
+#### <img align="left" width = "4%" src="https://static.wikia.nocookie.net/gtawiki/images/4/4a/RockstarGiphy.Com-GTASAde-sticker-15.gif/revision/latest/scale-to-width-down/250?cb=20211110002356"/>
+##  SA-MP Game Development
 - **Pawn Scripting Expert** – Advanced knowledge in SA-MP game mode development.
 - **Server Development** – Developer of **Apex Roleplay** and other multiplayer servers.
 - **Educator & Mentor** – Created documentation and classes for SA-MP learning.
@@ -26,7 +26,7 @@
     <img alt="Skills Animation" align = "right" width = "20%" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
   </picture>
 
-#### <img align="left" width = "4%" src="https://cdn-icons-gif.flaticon.com/17122/17122515.gif"/>
+#### <img align="left" width = "4%" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/development-274-913823.png?f=webp&w=256"/>
 ## Software Development & Programming
 - **Expanding into** – Python, HTML, MySQL, PHP, and JavaScript.
 - **Web Development** – Learning full-stack principles for scalable applications.
