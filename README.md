@@ -1,59 +1,84 @@
-# Ahmed LJ - Full Stack Developer & SA-MP Game Scripting Expert
+<!--Banner-->
+<img src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/github-header-image%20(1).png" alt="LJ Banner">
 
-## About Me
+<!--Night Owl Image-->
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-I'm Ahmed LJ, a passionate Full Stack Developer and SA-MP (San Andreas Multiplayer) scripting expert based in the UAE. With extensive experience in game development, open-source projects, and freelance development, I specialize in creating robust applications and game servers.
 
-## Professional Experience & Skills
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm LJ (Liam / Ahmed)
+*SA-MP Developer | Programmer | Educator*
 
-### Programming Languages
-- Pawn (SA-MP Scripting)
-- Python
-- JavaScript
-- PHP
-- HTML/CSS
+<!--Intro-->
+<p align="left">
+  I'm mainly a SA-MP developer with strong experience in Pawn scripting. I enjoy programming and exploring the virtual world. I'm also learning other languages like Python, HTML, PHP, and JavaScript. While I'm still a beginner in those, I'm excited to grow and build more.
 
-### Specializations
-- SA-MP Game Server Development
-- Full Stack Web Development
-- Open Source Contributions
-- Game Scripting & Architecture
-- Server Administration
-- Database Design
+### 🚀 Professional Experience & Skills
+#### <img align="left" width = "4%" src="https://static.wikia.nocookie.net/gtawiki/images/4/4a/RockstarGiphy.Com-GTASAde-sticker-15.gif/revision/latest/scale-to-width-down/250?cb=20211110002356"/>
+##  SA-MP Game Development
+- **Pawn Scripting Expert** – Advanced knowledge in SA-MP game mode development.
+- **Server Development** – Developer of **Apex Roleplay** and other multiplayer servers.
+- **Educator & Mentor** – Created documentation and classes for SA-MP learning.
+- **Community Builder** – Active in growing and supporting multiplayer gaming communities.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_White.gif">
+    <img alt="Skills Animation" align = "right" width = "20%" src="https://github.com/Kiran1689/kiran1689/blob/main/Skills_Animation_Dark.gif">
+  </picture>
 
-### Tools & Technologies
-- GitHub
-- MySQL
-- RESTful APIs
-- Version Control (Git)
-- Linux/Server Management
+#### <img align="left" width = "4%" src="https://github.com/LJ-LiamAhmed/LJ-LiamAhmed/blob/main/programmer.gif"/>
+## Software Development & Programming
+- **Expanding into** – Python, HTML, MySQL, PHP, and JavaScript.
+- **Web Development** – Learning full-stack principles for scalable applications.
+- **Database Management** – Working on relational & non-relational database solutions.
+- **Automation & Tools** – Developing open-source SA-MP systems and improvements.
 
-## What I Do
+### <img align="left" width = "4%" src="https://cdn-icons-gif.flaticon.com/14662/14662069.gif"/>
+## Leadership & Education
+- **Managing Director & Lead Tutor** at **Pheonix Academy**.
+- **Training & Technical Guidance** – Supporting learners in game development & coding.
+- **Knowledge Sharing** – Helping aspiring developers grow through education.
 
-- Design and develop SA-MP game servers and roleplay communities
-- Build full-stack web applications with Python and JavaScript
-- Contribute to open-source projects
-- Provide freelance development services
-- Mentor and tutor programming concepts
-- Create custom game scripts and modifications
-
-## Current Focus
-
-- Advancing full-stack development skills
-- Building innovative game server solutions
-- Contributing to open-source gaming communities
-- Offering freelance development services
-
-## Let's Connect
-
-- Email: lj4hmed@gmail.com
-- Discord: lj_4hmed
-- GitHub: LJ-LiamAhmed
-
-## My Mission
-
-To create high-quality, scalable solutions in game development and software engineering while contributing to the open-source community and helping others learn programming.
+### <img align="left" width = "4%" src="https://cdn-icons-gif.flaticon.com/16104/16104326.gif"/>
+## Collaboration & Contact
+#### I’m open to new projects and collaborations! Feel free to **reach out** anytime.
+  <a href="mailto:lj4hmed@gmail.com"><img src="https://assemblaggioelettronico.com/wp-content/uploads/2022/11/144-envelope-mail-notification-outline-1.gif" width="20" height="20" alt="Gmail"/></a>
+  <a align="right" href="https://github.com/LJ-LiamAhmed"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="20" height="20" alt="GitHub"/></a>
+  <a href="https://discord.com/users/lj4hmed"><img src="https://media.lordicon.com/icons/wired/flat/2566-logo-discord.gif" width="20" height="20" alt="Discord"/></a>
 
 ---
 
-**Keywords:** Ahmed LJ, Full Stack Developer, SA-MP Expert, Game Scripting, Python Developer, JavaScript Developer, Open Source, Freelance Developer, UAE Developer, Pawn Scripting, Game Server Development
+<!--GitHub Stats-->
+<h2 align="right">📊 GitHub Stats</h2>
+<div align="right">
+  <img  width = "30%" src="https://github-readme-stats.vercel.app/api?username=LJ-LiamAhmed&count_private=true&show_icons=true&theme=radical" alt="LJ's GitHub Stats"/>
+  <br/>
+  <img  width = "30%" src="https://streak-stats.demolab.com?user=LJ-LiamAhmed&theme=radical" alt="LJ's GitHub Streak"/>
+</div>
+
+<!--Projects Section-->
+<h2 align="left">🧪 Projects & Contributions</h2>
+<p align="left">Stay tuned — I’ll be uploading SA-MP systems, tools, and tutorials regularly.</p>
+
+<!--Quote of the Day-->
+<h1 align="right">🌟 Thought of the Day 🌟</h1>
+<p align="right">
+  <img width = "30%" src="https://readme-daily-quotes.vercel.app/api?author=Mark%20Manson&quote=Life%20is%20about%20not%20knowing%20and%20then%20doing%20something%20anyway.&theme=dark"/>
+</p>
+
+---
+
+---
+
+<p align="center">
+  <a href="mailto:lj4hmed@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="20" height="20" alt="Gmail"/></a>
+  <a href="https://github.com/LJ-LiamAhmed"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="20" height="20" alt="GitHub"/></a>
+  <a href="https://discord.com/users/lj4hmed"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="20" height="20" alt="Discord"/></a>
+</p>
+
+---
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=Thanks%20For%20Visiting%20My%20Profile%20-%20LJ&section=footer&textBg=false&fontSize=20&fontColor=black&fontAlign=52&fontAlignY=48&animation=twinkling&desc=If%20You%20Need%20Any%20Kind%20Of%20Help%20Please%20Contact%20Me%20Via%20Discord%20Or%20Mail%20Me%20&descAlign=52&descSize=10&descAlignY=67"/>
+</p>
